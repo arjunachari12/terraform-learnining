@@ -4,3 +4,4 @@
 */.terraform*
 */mykey*
 terraform.tfvars
+*/errored*
